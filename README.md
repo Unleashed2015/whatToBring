@@ -1,7 +1,7 @@
 What to bring to the event?
 ---------
 
-This is just a copy from the official participant kit [http://uladl.com/wp-content/uploads/2015/06/GovHack-Unleashed-Participant-Kit-2015-.pdf] (http://uladl.com/wp-content/uploads/2015/06/GovHack-Unleashed-Participant-Kit-2015-.pdf)
+This is just a copy & paste from the official participant kit [http://uladl.com/wp-content/uploads/2015/06/GovHack-Unleashed-Participant-Kit-2015-.pdf] (http://uladl.com/wp-content/uploads/2015/06/GovHack-Unleashed-Participant-Kit-2015-.pdf)
 
 * Laptop
 * Mouse and mousepad
